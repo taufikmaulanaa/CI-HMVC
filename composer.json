@@ -1,6 +1,6 @@
 {
-    "name": "codinghamster/codeigniter-modular-extensions-hmvc",
-    "description": "CodeIgniter framework modular extension - HMVC",
+    "name": "taufikmaulanaa/ci-hmvc",
+    "description": "CodeIgniter HMVC Extension",
     "type": "library",
     "license": "MIT",
     "require": {},
