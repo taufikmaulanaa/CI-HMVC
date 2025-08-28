@@ -14,7 +14,7 @@ Module Controllers can be used as normal Controllers or HMVC Controllers and the
 **Step 1.** Install package with composer:
 
 ```bash
-composer require codinghamster/codeigniter-modular-extensions-hmvc
+composer require taufikmaulanaa/ci-hmvc
 ```
 
 **Step 2.** Create two files in your `application/core` directory:
